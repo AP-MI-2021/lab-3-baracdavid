@@ -102,4 +102,4 @@ def main():
     test_get_longest_div_k()
     test_get_longest_arithmetic_progression()
 if __name__ == '__main__':
-        main()
+    main()
