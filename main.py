@@ -101,4 +101,5 @@ def main():
             print("Optiune invalida")
     test_get_longest_div_k()
     test_get_longest_arithmetic_progression()
-main()
+if __name__ == '__main__':
+        main()
