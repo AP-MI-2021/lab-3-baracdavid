@@ -133,7 +133,5 @@ def main():
     test_get_longest_div_k()
     test_get_longest_arithmetic_progression()
     test_get_longest_average_below()
-    print(get_media_unei_liste(lista))
 if __name__ == '__main__':
     main()
-    get_media_unei_liste([10,20,30])
